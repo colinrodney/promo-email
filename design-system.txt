@@ -1,0 +1,55 @@
+*{
+box-sizing: border-box;
+}
+
+:root{
+}
+
+
+
+FONT AWESOME ICONS
+v 5.8.2
+
+FACEBOOK:
+<i class="fab fa-facebook-f"></i>
+
+INSTAGRAM:
+<i class="fab fa-instagram"></i>
+
+TWITTER:
+<i class="fab fa-twitter"></i>
+
+
+colors:
+
+kkd-green: hsla(151,93%,22%,1);
+kkd-red: hsla(352,82%,45%,1);
+career-link: hsla(220,95%,62%,1);
+
+header-link-color: hsla:(200,2%,66%,1);
+paragraph-text: hsla:(0,0%,0%,1); 
+font-size: 14px;
+font-family: Century Gothic, CenturyGothic, Arial, sans-serif;
+
+
+line-height: 22px;
+
+
+***** POSTIMAGE LINKS*****
+https://i.postimg.cc/g02Z3bm4/facebook.png
+https://i.postimg.cc/Zqsycsqm/fundraising.jpg
+https://i.postimg.cc/pyMWCz8R/gift-cards.jpg
+https://i.postimg.cc/DfJ1ChsM/gift-cards-sm.jpg
+https://i.postimg.cc/66kngPf5/gift-delivery.jpg
+https://i.postimg.cc/13HFg3hf/instagram.png
+https://i.postimg.cc/jdyPbhM6/merchandise.jpg
+https://i.postimg.cc/Qds5xWz2/twitter.png
+https://i.postimg.cc/hPCghkZK/logo.png
+https://i.postimg.cc/N0mW8SD9/fall-favorites.jpg
+https://i.postimg.cc/V6w2KgZ7/get-cozy.jpg
+https://i.postimg.cc/vTHksBsf/hero-main.gif
+https://i.postimg.cc/cCb9GBTG/coffees.png
+https://i.postimg.cc/XvfzBFN9/doughnuts.png
+https://i.postimg.cc/0QZXcswQ/dozens.png
+https://i.postimg.cc/63B1r3Tg/specialty.png
+https://i.postimg.cc/7h6sRW3N/star.png
