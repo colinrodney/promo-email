@@ -1,3 +1,7 @@
+SITE ADDRESS:
+https://colinrodney.github.io/promo-email/
+
+
 *{
 box-sizing: border-box;
 }
