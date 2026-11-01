@@ -1,0 +1,196 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="CenturyGothic, Arial, sans-serif" font-size="14px" color="#000000" line-height="1.5" />
+      <mj-text padding="0" />
+    </mj-attributes>
+    <mj-style>
+      .nav-link {
+        color: hsla(200, 2%, 66%, 1) !important;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-size: 14px;
+        font-weight: 600;
+        display: inline-block;
+        padding: 0 15px;
+      }
+      @media (max-width: 600px) {
+        .nav-link { padding: 0 5px; }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#ffffff">
+    <mj-wrapper full-width="full-width" padding="20px">
+      
+      <!-- Main Navigation -->
+      <mj-section padding="10px 0">
+        <mj-column>
+          <mj-text align="center">
+            <a href="#" class="nav-link">order online</a>
+            <a href="#" class="nav-link">rewards</a>
+            <a href="#" class="nav-link">find a shop</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Logo Row -->
+      <mj-section padding="24px 0">
+        <mj-column>
+          <mj-image src="https://i.postimg.cc/hPCghkZK/logo.png" alt="logo" width="200px" href="https://www.krispykreme.com" align="center" />
+        </mj-column>
+      </mj-section>
+
+      <!-- Section Separator -->
+      <mj-section padding="0 0 20px 0">
+        <mj-column>
+          <mj-divider border-width="3px" border-style="solid" border-color="#046c3a" padding="0" />
+        </mj-column>
+      </mj-section>
+
+      <!-- Rewards Header -->
+      <mj-section padding="16px 0">
+        <mj-column>
+          <mj-text align="center" font-size="22px" font-weight="600" text-transform="uppercase" color="#046c3a" padding-bottom="8px">
+            <a href="#" style="color: hsla(151, 93%, 22%, 1); text-decoration: none;">user rewards</a>
+          </mj-text>
+          <mj-text align="center" font-size="22px" font-weight="600" text-transform="uppercase" color="#046c3a">
+            <img src="https://i.postimg.cc/7h6sRW3N/star.png" alt="star" width="22" style="vertical-align: middle;" /> =free item
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Rewards Count Grid (4 columns) -->
+      <mj-section padding="10px 0">
+        <mj-column width="25%">
+          <mj-image src="https://i.postimg.cc/XvfzBFN9/doughnuts.png" alt="doughnut" width="40px" align="center" padding="0 0 5px 0" />
+          <mj-text align="center" font-size="10px" font-weight="600" text-transform="uppercase">
+            <a href="#" style="color: hsla(151, 93%, 22%, 1); text-decoration: none; display: block;">0/12<br />doughnuts</a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="25%">
+          <mj-image src="https://i.postimg.cc/cCb9GBTG/coffees.png" alt="coffee" width="40px" align="center" padding="0 0 5px 0" />
+          <mj-text align="center" font-size="10px" font-weight="600" text-transform="uppercase">
+            <a href="#" style="color: hsla(151, 93%, 22%, 1); text-decoration: none; display: block;">0/12<br />coffee</a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="25%">
+          <mj-image src="https://i.postimg.cc/0QZXcswQ/dozens.png" alt="dozens" width="40px" align="center" padding="0 0 5px 0" />
+          <mj-text align="center" font-size="10px" font-weight="600" text-transform="uppercase">
+            <a href="#" style="color: hsla(151, 93%, 22%, 1); text-decoration: none; display: block;">0/12<br />dozens</a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="25%">
+          <mj-image src="https://i.postimg.cc/63B1r3Tg/specialty.png" alt="specialty" width="40px" align="center" padding="0 0 5px 0" />
+          <mj-text align="center" font-size="10px" font-weight="600" text-transform="uppercase">
+            <a href="#" style="color: hsla(151, 93%, 22%, 1); text-decoration: none; display: block;">0/12<br />specialty</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Hero Images -->
+      <mj-section padding="10px 0 0 0">
+        <mj-column>
+          <mj-image href="#" src="https://i.postimg.cc/vTHksBsf/hero-main.gif" alt="promo-img" padding="0 0 8px 0" />
+          <mj-image href="#" src="https://i.postimg.cc/N0mW8SD9/fall-favorites.jpg" alt="promo-img" padding="0 0 8px 0" />
+          <mj-image href="#" src="https://i.postimg.cc/V6w2KgZ7/get-cozy.jpg" alt="promo-img" padding="0 0 16px 0" />
+        </mj-column>
+      </mj-section>
+
+      <!-- Hero Section Links (4 small promo images in a row) -->
+      <mj-section padding="10px 0">
+        <mj-column width="25%">
+          <mj-image href="#" src="https://i.postimg.cc/pyMWCz8R/gift-cards.jpg" alt="gift-cards" width="125px" padding="5px" />
+        </mj-column>
+        <mj-column width="25%">
+          <mj-image href="#" src="https://i.postimg.cc/jdyPbhM6/merchandise.jpg" alt="merchandise" width="125px" padding="5px" />
+        </mj-column>
+        <mj-column width="25%">
+          <mj-image href="#" src="https://i.postimg.cc/66kngPf5/gift-delivery.jpg" alt="gift-delivery" width="125px" padding="5px" />
+        </mj-column>
+        <mj-column width="25%">
+          <mj-image href="#" src="https://i.postimg.cc/Zqsycsqm/fundraising.jpg" alt="fundraising" width="125px" padding="5px" />
+        </mj-column>
+      </mj-section>
+
+      <!-- Be a Krispy Kremer -->
+      <mj-section padding="16px 0 48px 0">
+        <mj-column>
+          <mj-text align="center">
+            <strong>Don't just be a dreamer. Be a Krispy Kremer. Come make some dough and have some fun. Click <a href="#" style="color: hsla(220, 95%, 62%, 1);">here</a> to start your career with us.</strong>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Social Media -->
+      <mj-section padding="10px 0">
+        <mj-column width="100%" >
+          <mj-text align="center">
+            <a href="#" style="padding: 0 10px; display: inline-block;"><img src="https://i.postimg.cc/13HFg3hf/instagram.png" alt="instagram" width="45px" /></a>
+            <a href="#" style="padding: 0 10px; display: inline-block;"><img src="https://i.postimg.cc/13HFg3hf/instagram.png" alt="instagram" width="45px" /></a>
+            <a href="#" style="padding: 0 10px; display: inline-block;"><img src="https://i.postimg.cc/13HFg3hf/instagram.png" alt="instagram" width="45px" /></a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Email User -->
+      <mj-section padding="24px 0 0 0">
+        <mj-column>
+          <mj-text align="center">This email was sent to: <span>userName</span></mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Corporate Address -->
+      <mj-section padding="10px 0 24px 0">
+        <mj-column>
+          <mj-text align="center">
+            Krispy Kreme Doughnut Corporation<br />
+            370 Knollwood St.<br />
+            Winston-Salem, NC 27103
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Footer Links -->
+      <mj-section padding="10px 0">
+        <mj-column>
+          <mj-text align="center" font-size="13px" color="#a7a9aa">
+            <a href="#" style="color: hsla(200, 2%, 66%, 1); text-decoration: none;">Unsubscribe</a> &nbsp;|&nbsp;
+            <a href="#" style="color: hsla(200, 2%, 66%, 1); text-decoration: none;">Manage Your Email Preferences</a> &nbsp;|&nbsp;
+            <a href="#" style="color: hsla(200, 2%, 66%, 1); text-decoration: none;">View as Web Page</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Do Not Reply -->
+      <mj-section padding="16px 0">
+        <mj-column>
+          <mj-text align="center" text-transform="uppercase" padding-bottom="8px">
+            Please do not reply to this email.
+          </mj-text>
+          <mj-text align="center">
+            We are not able to respond to emails received as a reply to this email. Should you have questions or concerns, please &nbsp; <a href="#" style="color: #000000; text-decoration: underline;">Contact Us.</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Copyright -->
+      <mj-section padding="16px 0">
+        <mj-column>
+          <mj-text align="center" text-transform="uppercase">
+            &copy;2021 Krispy Kreme Doughnut Corporation All Rights Reserved
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Offer Details -->
+      <mj-section padding="16px 0">
+        <mj-column>
+          <mj-text font-size="12px" color="#666666" line-height="1.4">
+            Offer valid 11/6/2021 – 11/7/2021 and is subject to product availability (which may vary by market). Valid in participating U.S. Krispy Kreme shops only. Limit 4 redemptions at special price. Not valid in Times Square. Not valid in Puerto Rico. Offer excludes Mini Doughnuts. Not valid with any other offer or coupon. Not valid for delivery or online ordering. Void if altered, copied, sold, purchased, transferred, exchanged, taxed, restricted or prohibited by law. Not redeemable at grocery or convenience stores. Pumpkin Spice Latte and Cinnamon Bun Latte available at participating U.S. Krispy Kreme shops. For a limited time only. Products may vary by market. Upcharge or exclusions may apply for specialty doughnuts or specialty dozens. Customer pays any sales tax. &copy;2021 Krispy Kreme Doughnut Corp.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+    </mj-wrapper>
+  </mj-body>
+</mjml>
